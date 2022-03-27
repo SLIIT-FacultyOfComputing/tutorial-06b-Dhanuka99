@@ -1,6 +1,7 @@
 #include <iostream>
 #include "Student.h"
 using namespace std;
+#include <cstring>
 int main() {
   
 // == DO NOT CHANGE THE MAIN PROGRAM =================
